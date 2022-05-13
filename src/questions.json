@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "question": "When was javascript invented?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "1995", "isCorrect": true },
+      { "option": "1996", "isCorrect": false },
+      { "option": "1994", "isCorrect": false },
+      { "option": "1990", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Javascript is different from java programming (True/False)",
+    "questionType": "radio",
+    "answerOptions": [
+      {"option": "True", "isCorrect":true},
+      {"option": "False", "isCorrect":false}]
+  },
+  {
+    "id": 3,
+    "question": "Who is the founder of Javascript?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "Brendan Eich", "isCorrect": true }]
+  },
+  {
+    "id": 4,
+    "question": "When are the primitive data types in JavaScript?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "string", "isCorrect": true },
+      { "option": "boolean", "isCorrect": true },
+      { "option": "object", "isCorrect": false },
+      { "option": "array", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Match The Following:\n A:Cricket \t i:Spike \n B:VolleyBall \t ii:Ace \n C:Football \t iii:Bowler \n D:Tennis \t iv:Free Kick",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "A-i,B-ii,C-iii,D-iv", "isCorrect": false },
+      { "option": "A-ii,B-i,C-iv,D-iii", "isCorrect": false },
+      { "option": "A-iii,B-i,C-iv,D-ii", "isCorrect": true },
+      { "option": "A-iv,B-i,C-iii,D-ii", "isCorrect": false }
+    ]
+  } 
+]
